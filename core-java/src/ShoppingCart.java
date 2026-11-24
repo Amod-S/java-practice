@@ -1,5 +1,6 @@
 import java.util.Scanner;
 /*
+sample result: 
 what item would u like to buy
 price for each
 how many
@@ -10,6 +11,7 @@ your total is __Rs
 
 public class ShoppingCart {
     public static void main(){
+        //simple shopping cart
         Scanner scanner = new Scanner(System.in);
 
         String itemName;

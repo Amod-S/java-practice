@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Madlibs {
     public static void main(){
-        //this program calculates the area of a rectangle by taking input of the side measurements.
+        //Madlibs game
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("\n--------Mad Libs game-----------");

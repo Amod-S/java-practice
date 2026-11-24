@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class MathExercises {
     public static void main(){
+        //basic maths exercises
         Scanner scanner = new Scanner(System.in);
 
         int userChoice;
